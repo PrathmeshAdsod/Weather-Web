@@ -18,7 +18,7 @@ section {
     width: 350px;
     border: 0.8px solid rgb(11, 188, 241);
    /* background-color: rgb(228, 253, 245);*/
-   background-image: url("back.jfif");
+   background-image: url("./public/back.jfif");
     margin : 50px 50px;
     padding: 50px;
     box-shadow: 5px 5px 8px black;
